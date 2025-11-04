@@ -51,3 +51,5 @@ Through this project, I learned how to:
 
 Each challenge helped me improve my data modelling and visualization skills.
 
+Ecommerce Sales Dashboard.png
+
